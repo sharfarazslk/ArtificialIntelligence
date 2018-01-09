@@ -133,7 +133,5 @@ void DFS (Bricks &Game)
 		//Push node into closed list
 		closed.push_back(current);
 
-	}
-
-	
+	}	
 }
